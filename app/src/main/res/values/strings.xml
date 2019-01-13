@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Orland Contreras</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        \nUltrices in iaculis nunc sed augue lacus viverra. Mauris augue neque gravida in fermentum et sollicitudin ac orci.
+        \nVel risus commodo viverra maecenas accumsan lacus. Hac habitasse platea dictumst quisque.
+        \n\nDiam phasellus vestibulum lorem sed risus. Vitae semper quis lectus nulla at volutpat diam. Habitant morbi tristique senectus et netus et malesuada. Et odio pellentesque diam volutpat commodo sed.
+        \n\nArcu dui vivamus arcu felis bibendum ut tristique et egestas. Felis bibendum ut tristique et egestas.
+        Et egestas quis ipsum suspendisse ultrices. Condimentum vitae sapien pellentesque habitant morbi.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
